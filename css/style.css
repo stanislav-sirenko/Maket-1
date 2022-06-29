@@ -227,12 +227,14 @@ body {
     .text-container {
         width: 312px;
         font-family: "tt_lakes";
+        font-size: 14px;
     }
 }
 
 @media (min-width: 880px) {
     .text-container {
         width: 500px;
+        font-size: 14px;
     }
 }
 
